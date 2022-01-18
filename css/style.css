@@ -1,3 +1,38 @@
 body{
     background-color: rgb(70, 143, 161);
+    
+}
+
+.pie__icons:hover{
+    translate: -100px 1px;
+    width: 90px;
+    transition: all 1s;
+
+}
+
+/*Login css*/
+
+.bodLogin{
+    background-color: rgb(70, 143, 161);
+    height: 100vh;
+
+}
+/*Prductos css*/
+.prodBack{
+    background-color: rgb(70, 143, 161);
+}
+.title1{
+background: linear-gradient( rgb(93, 69, 199), rgb(144, 238, 230) );
+font-family: 'Otomanopee One', sans-serif;
+}
+
+.carousel-inner .carousel-item img {
+    margin: 0 auto;
+  }
+
+.descriptivo__titulo{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
 }
